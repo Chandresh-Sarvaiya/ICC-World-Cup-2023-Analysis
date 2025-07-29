@@ -38,7 +38,7 @@ The dashboard is organized into three distinct pages:
 
 This page provides a high-level overview of the tournament, focusing on team results and match logistics.
 
-![Team Performance Dashboard](Screenshot%202025-07-29%20135858.png)
+![Team Performance Dashboard]("C:\Users\dell8\OneDrive\Pictures\Screenshots\Screenshot 2025-07-29 135858.png")
 
 **Key Insights:**
 * **Tournament Dominance:** India emerged as the team with the most wins (10), showcasing their consistent performance throughout the group stage.
@@ -90,4 +90,4 @@ This page analyzes the bowlers who were most effective and economical.
 ## 👤 Author
 
 * **Chandresh Sarvaiya**
-* (https://www.linkedin.com/in/chandresh-sarvaiya-42449325a/)
+* [LinkedIn](https://www.linkedin.com/in/chandresh-sarvaiya-42449325a/)
