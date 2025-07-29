@@ -38,7 +38,7 @@ The dashboard is organized into three distinct pages:
 
 This page provides a high-level overview of the tournament, focusing on team results and match logistics.
 
-![Team Performance Dashboard](Team Performance.png)
+![Team Performance Dashboard](https://github.com/Chandresh-Sarvaiya/ICC-World-Cup-2023-Analysis/blob/main/Team%20Performance.png)
 
 **Key Insights:**
 * **Tournament Dominance:** India emerged as the team with the most wins (10), showcasing their consistent performance throughout the group stage.
@@ -49,7 +49,7 @@ This page provides a high-level overview of the tournament, focusing on team res
 
 This page is a deep dive into the batsmen who lit up the tournament with their skills.
 
-![Batting Performance Dashboard](Batting Performance.png)
+![Batting Performance Dashboard](https://github.com/Chandresh-Sarvaiya/ICC-World-Cup-2023-Analysis/blob/main/Batting%20Performance.png)
 
 **Key Insights:**
 * **Top Run Scorer:** Virat Kohli led the charts with an impressive 765 runs.
@@ -61,7 +61,7 @@ This page is a deep dive into the batsmen who lit up the tournament with their s
 
 This page analyzes the bowlers who were most effective and economical.
 
-![Bowling Performance Dashboard](Bowling Performance.png)
+![Bowling Performance Dashboard](https://github.com/Chandresh-Sarvaiya/ICC-World-Cup-2023-Analysis/blob/main/Bowling%20Performance.png)
 
 **Key Insights:**
 * **Wicket-Taking Machine:** Mohammed Shami was the standout bowler, claiming the most wickets (24) and the best bowling figures (7/57).
