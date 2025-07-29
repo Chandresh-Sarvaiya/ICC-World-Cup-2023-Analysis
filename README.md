@@ -1,6 +1,6 @@
 # ICC Cricket World Cup 2023 - Comprehensive Performance Dashboard
 
-### ➡️ [View the Live Interactive Dashboard Here]https://app.powerbi.com/groups/me/reports/cb781a8c-668d-4325-82d2-88f910921bea/5dc1ff28367c49e18bdc?redirectedFromSignup=1&experience=power-bi
+### ➡️ [View the Live Interactive Dashboard](https://app.powerbi.com/groups/me/reports/cb781a8c-668d-4325-82d2-88f910921bea/5dc1ff28367c49e18bdc?redirectedFromSignup=1&experience=power-bi)
 
 
 ## 📜 Project Overview
@@ -38,7 +38,7 @@ The dashboard is organized into three distinct pages:
 
 This page provides a high-level overview of the tournament, focusing on team results and match logistics.
 
-![Team Performance Dashboard]("C:\Users\dell8\OneDrive\Pictures\Screenshots\Screenshot 2025-07-29 135858.png")
+![Team Performance Dashboard](Team Performance.png)
 
 **Key Insights:**
 * **Tournament Dominance:** India emerged as the team with the most wins (10), showcasing their consistent performance throughout the group stage.
@@ -49,7 +49,7 @@ This page provides a high-level overview of the tournament, focusing on team res
 
 This page is a deep dive into the batsmen who lit up the tournament with their skills.
 
-![Batting Performance Dashboard](Screenshot%202025-07-29%20135822.png)
+![Batting Performance Dashboard](Batting Performance.png)
 
 **Key Insights:**
 * **Top Run Scorer:** Virat Kohli led the charts with an impressive 765 runs.
@@ -61,7 +61,7 @@ This page is a deep dive into the batsmen who lit up the tournament with their s
 
 This page analyzes the bowlers who were most effective and economical.
 
-![Bowling Performance Dashboard](Screenshot%202025-07-29%20135842.png)
+![Bowling Performance Dashboard](Bowling Performance.png)
 
 **Key Insights:**
 * **Wicket-Taking Machine:** Mohammed Shami was the standout bowler, claiming the most wickets (24) and the best bowling figures (7/57).
